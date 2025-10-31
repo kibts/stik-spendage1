@@ -1,0 +1,5 @@
+{
+  "name": "Smart Accountant AI",
+  "description": "An intelligent accounting application that analyzes XLSX expense reports. It calculates expenses per employee, identifies trends like refunds and card issuance costs, and provides AI-powered summaries of financial activity using Gemini.",
+  "requestFramePermissions": []
+}
